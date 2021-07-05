@@ -112,26 +112,8 @@ border-radius: 13%;
 .lado-direito .icone section p {
     display: inline-block;
     justify-content:space-between;
-    margin-left: 100px;
 }
-.lado-direito .icone {
-    align-items: center;
-}
-.lado-direito input[type="text"]{
-    display:block;
-   border: 1px solid;
-   border-radius: 8px;
-   color: #717171;  
-   margin: 20px 20px 20px 0px;
-  
-   
-}
-.lado-direito .formulario form{
-    margin: 20px;
-    font: weight 100;
-    font-size: 20px;
     
-}
     
  
  

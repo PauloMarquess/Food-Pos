@@ -75,7 +75,6 @@ header img {
 
 .lado-direito{
        width: 30%;
-       border-left: solid 1px #dad5d5;
 }
 
 .lado-direito section img {
@@ -91,47 +90,12 @@ border-radius: 13%;
 }
 
 
-
-.lado-direito .icone img {
+.lado-direito #icone img { 
     width: 28px;
     height: 26px;
-    margin-right: 15px;
-    margin-top: 15px;
-}
-.lado-direito section {
-    margin: 20px;
-
-}
-.lado-direito section h1 {
-    margin-bottom: 50px;
-}
-.lado-direito section p {
-    color: black;
 }
 
-.lado-direito .icone section p {
-    display: inline-block;
-    justify-content:space-between;
-    margin-left: 100px;
-}
-.lado-direito .icone {
-    align-items: center;
-}
-.lado-direito input[type="text"]{
-    display:block;
-   border: 1px solid;
-   border-radius: 8px;
-   color: #717171;  
-   margin: 20px 20px 20px 0px;
-  
-   
-}
-.lado-direito .formulario form{
-    margin: 20px;
-    font: weight 100;
-    font-size: 20px;
     
-}
     
  
  
